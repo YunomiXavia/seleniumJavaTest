@@ -467,6 +467,9 @@ Mở lớp `Main.java` trong IDE và chạy lớp này như một ứng dụng J
 
 ![Login Failure](screenshots/LoginTest_failure.png)
 
+## ChatGPT chấm điểm: 9.5/10
+Link ChatGPT: https://chatgpt.com/share/6785d922-0a50-8004-a414-0b7cfc29c3e1
+
 ## Video Hướng Dẫn
 
 Bạn có thể xem video hướng dẫn chạy kiểm thử và xem kết quả tại [đây](screenshots/demo.mkv).
