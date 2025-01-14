@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [AutomationTesting Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="Register and Login Tests(failed)" verbose="0">
+    <classes>
+      <class name="com.automationtesting.tests.RegisterTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="testRegistration"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.automationtesting.tests.RegisterTest -->
+    </classes>
+  </test> <!-- Register and Login Tests(failed) -->
+</suite> <!-- Failed suite [AutomationTesting Suite] -->

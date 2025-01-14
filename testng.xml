@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AutomationTesting Suite" verbose="1" parallel="none">
+    <test name="Register and Login Tests">
+        <classes>
+            <class name="com.automationtesting.tests.RegisterTest"/>
+            <class name="com.automationtesting.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
