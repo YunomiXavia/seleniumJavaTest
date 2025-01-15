@@ -51,7 +51,7 @@ mvn -version
 
 ### 3. Clone Dự Án
 
-Clone dự án từ GitHub (nếu có):
+Clone dự án từ GitHub:
 
 ```sh
 git clone https://github.com/YunomiXavia/seleniumJavaTest.git
