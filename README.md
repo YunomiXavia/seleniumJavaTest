@@ -92,7 +92,6 @@ AutomationTesting/
 └── screenshots/
     ├── RegisterTest_failure.png
     ├── LoginTest_failure.png
-    ├── RegisterTest_success.png
     ├── LoginTest_success.png
     ├── logo.png
     └── demo.mp4
