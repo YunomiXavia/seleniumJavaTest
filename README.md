@@ -54,7 +54,7 @@ mvn -version
 Clone dự án từ GitHub (nếu có):
 
 ```sh
-git clone https://github.com/yourusername/AutomationTesting.git
+git clone https://github.com/YunomiXavia/seleniumJavaTest.git
 ```
 
 ### 4. Mở Dự Án trong IDE
